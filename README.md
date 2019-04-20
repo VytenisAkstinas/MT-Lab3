@@ -1,3 +1,9 @@
+Veikimas patikrintas naudojant:
+
+Microsoft Edge 42.17134.1.0
+Firefox Quantum 65.0.2 (64-bit)
+
+
 # MT-Lab3
 LT
 Šio laboratorinio darbo tikslas - sukurti pirmąją papildytos realybės (AR) taikomąją programėlę/aplikaciją.
